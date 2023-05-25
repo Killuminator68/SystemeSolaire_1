@@ -1,0 +1,16 @@
+{
+"id": 3,
+"type": "satellite",
+"nom": "Lune",
+"position": {
+"x": 1.00257,
+"y": 0.0
+},
+"taille": 1737,
+"masse": 7.342e22,
+"distancePlanete": 0.00257,
+"tempsRevolution": 27.32,
+"composition": "Roches silicatées et basaltes",
+"pourcentageRevolution": 0,
+"orbiteAutour": 2
+}

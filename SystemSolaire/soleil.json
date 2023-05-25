@@ -1,0 +1,16 @@
+{
+	"id": 1,
+	 "type": "etoile",
+	 "nom": "Soleil",
+	 "position": {
+	"x": 0.0,
+	 "y": 0.0
+	 },
+	 "taille": 696340,
+	 "masse": 1.989e30,
+	 "distanceSoleil": 0,
+	 "tempsRevolution": 0,
+	 "composition": "",
+	 "pourcentageRevolution": 0,
+	 "orbiteAutour": -1
+}

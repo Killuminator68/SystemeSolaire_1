@@ -1,0 +1,16 @@
+{
+"id": 2,
+"type": "planete",
+"nom": "Terre",
+"position": {
+"x": -98.36,
+"y": 148.04
+},
+"taille": 6371,
+"masse": 5.972e24,
+"distanceSoleil": 1,
+"tempsRevolution": 365.25,
+"composition": "Silicate et fer",
+"pourcentageRevolution": 31.11,
+"orbiteAutour": 1
+}
